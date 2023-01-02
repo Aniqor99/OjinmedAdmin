@@ -3,9 +3,6 @@ import Favicon from './extensions/favicon.ico'
 const myColor = '#fff'
 const selectColor = "#ef5aa1"
 const config = {
-  locales: [
-    'fr',
-  ],
   auth: {
     logo: NewLogo,
   },
