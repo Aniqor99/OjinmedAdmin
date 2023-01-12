@@ -18,9 +18,6 @@ const config = {
     en: {
       'app.components.LeftMenu.navbrand.title': 'OJINMED',
       'app.components.LeftMenu.navbrand.workplace': 'Тавтай морил',
-      'global.content-manager': 'Агуулга',
-      'global.plugins.upload': 'Зураг нэмэх',
-      'Media Library': 'Зураг',
       'Auth.form.welcome.title': 'Тавтай морил',
       'Auth.form.welcome.subtitle': 'Бүртгэлээрэй нэвтрээд ороорой',
       'Auth.form.button.login': 'Нэвтрэх',
