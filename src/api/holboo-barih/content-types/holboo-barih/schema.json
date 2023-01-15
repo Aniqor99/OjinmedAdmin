@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "holboo_barihs",
+  "info": {
+    "singularName": "holboo-barih",
+    "pluralName": "holboo-barihs",
+    "displayName": "Холбоо барих"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

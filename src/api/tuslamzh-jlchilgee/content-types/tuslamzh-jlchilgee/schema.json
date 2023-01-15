@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "tuslamzh_jlchilgees",
+  "info": {
+    "singularName": "tuslamzh-jlchilgee",
+    "pluralName": "tuslamzh-jlchilgees",
+    "displayName": "Тусламж үйлчилгээ"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

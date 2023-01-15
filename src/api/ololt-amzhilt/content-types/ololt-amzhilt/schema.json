@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "ololt_amzhilts",
+  "info": {
+    "singularName": "ololt-amzhilt",
+    "pluralName": "ololt-amzhilts",
+    "displayName": "Ололт амжилт",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
