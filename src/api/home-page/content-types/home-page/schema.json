@@ -12,12 +12,14 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Component": {
+    "Components": {
       "type": "dynamiczone",
       "components": [
-        "component.newcom",
-        "showcase.showcase"
+        "component.newcom"
       ]
+    },
+    "text": {
+      "type": "string"
     }
   }
 }

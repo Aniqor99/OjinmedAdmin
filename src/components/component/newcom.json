@@ -1,0 +1,62 @@
+{
+  "collectionName": "components_status_newcoms",
+  "info": {
+    "displayName": "Status",
+    "icon": "chart-pie",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "nameA": {
+      "type": "string"
+    },
+    "numA": {
+      "type": "integer"
+    },
+    "IconA": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "nameB": {
+      "type": "string"
+    },
+    "NumB": {
+      "type": "integer"
+    },
+    "IconB": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "nameC": {
+      "type": "string"
+    },
+    "numC": {
+      "type": "integer"
+    },
+    "IconC": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
