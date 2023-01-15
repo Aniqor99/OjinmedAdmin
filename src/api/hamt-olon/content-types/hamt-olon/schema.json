@@ -4,15 +4,12 @@
   "info": {
     "singularName": "hamt-olon",
     "pluralName": "hamt-olons",
-    "displayName": "Хамт олон"
+    "displayName": "Манай хамт олон",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
-  "attributes": {
-    "name": {
-      "type": "string"
-    }
-  }
+  "attributes": {}
 }

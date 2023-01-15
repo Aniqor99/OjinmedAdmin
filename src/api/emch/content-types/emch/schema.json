@@ -1,0 +1,43 @@
+{
+  "kind": "collectionType",
+  "collectionName": "emches",
+  "info": {
+    "singularName": "emch",
+    "pluralName": "emches",
+    "displayName": "Эмч",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "required": true
+    },
+    "gender": {
+      "type": "enumeration",
+      "enum": [
+        "эмэгтэй",
+        "эрэгтэй"
+      ]
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    },
+    "profile": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

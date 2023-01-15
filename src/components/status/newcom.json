@@ -1,0 +1,58 @@
+{
+  "collectionName": "components_status_newcoms",
+  "info": {
+    "displayName": "newcom",
+    "icon": "chart-pie"
+  },
+  "options": {},
+  "attributes": {
+    "nameA": {
+      "type": "string"
+    },
+    "numA": {
+      "type": "integer"
+    },
+    "IconA": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "nameB": {
+      "type": "string"
+    },
+    "NumB": {
+      "type": "integer"
+    },
+    "IconB": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "nameC": {
+      "type": "string"
+    },
+    "numC": {
+      "type": "integer"
+    },
+    "IconC": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "collectionName": "components_status_statuses",
+  "info": {
+    "displayName": "Status",
+    "icon": "chart-pie"
+  },
+  "options": {},
+  "attributes": {}
+}

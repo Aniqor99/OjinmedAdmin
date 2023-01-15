@@ -11,20 +11,5 @@
     "draftAndPublish": true
   },
   "pluginOptions": {},
-  "attributes": {
-    "name": {
-      "type": "string"
-    },
-    "content": {
-      "type": "richtext",
-      "required": false
-    },
-    "Hero": {
-      "type": "dynamiczone",
-      "components": [
-        "info.infouse",
-        "lists.list"
-      ]
-    }
-  }
+  "attributes": {}
 }

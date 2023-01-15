@@ -4,15 +4,12 @@
   "info": {
     "singularName": "holboo-barih",
     "pluralName": "holboo-barihs",
-    "displayName": "Холбоо барих"
+    "displayName": "Холбоо барих",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
-  "attributes": {
-    "name": {
-      "type": "string"
-    }
-  }
+  "attributes": {}
 }
