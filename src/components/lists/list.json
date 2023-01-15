@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_lists_lists",
+  "info": {
+    "displayName": "List",
+    "icon": "cloud-moon-rain"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

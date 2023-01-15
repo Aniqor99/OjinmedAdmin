@@ -70,12 +70,12 @@
       "mappedBy": "user"
     },
     "image": {
-      "allowedTypes": [
-        "images"
-      ],
       "type": "media",
       "multiple": false,
-      "private": true
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
     }
   }
 }

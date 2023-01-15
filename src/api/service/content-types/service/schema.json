@@ -17,21 +17,20 @@
       "required": true
     },
     "description": {
-      "type": "richtext"
-    },
-    "price": {
-      "type": "integer"
+      "type": "richtext",
+      "required": true
     },
     "image": {
       "type": "media",
       "multiple": false,
-      "required": false,
+      "required": true,
       "allowedTypes": [
         "images"
       ]
     },
     "slug": {
-      "type": "uid"
+      "type": "uid",
+      "required": true
     }
   }
 }

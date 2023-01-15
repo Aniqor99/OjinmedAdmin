@@ -18,6 +18,13 @@
     "content": {
       "type": "richtext",
       "required": false
+    },
+    "Hero": {
+      "type": "dynamiczone",
+      "components": [
+        "info.infouse",
+        "lists.list"
+      ]
     }
   }
 }
