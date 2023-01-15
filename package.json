@@ -12,14 +12,12 @@
   "dependencies": {
     "@strapi/plugin-graphql": "^4.5.6",
     "@strapi/plugin-i18n": "4.5.4",
-    "@strapi/plugin-sentry": "^4.5.6",
     "@strapi/plugin-seo": "^1.7.7",
     "@strapi/plugin-users-permissions": "4.5.4",
     "@strapi/provider-upload-cloudinary": "^4.5.4",
     "@strapi/strapi": "4.5.4",
     "better-sqlite3": "7.4.6",
-    "pg": "^8.8.0",
-    "strapi-plugin-sitemap": "^2.0.9"
+    "pg": "^8.8.0"
   },
   "author": {
     "name": "A Strapi developer"

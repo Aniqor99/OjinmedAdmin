@@ -30,7 +30,8 @@
     },
     "slug": {
       "type": "uid",
-      "required": true
+      "required": true,
+      "default": "services"
     }
   }
 }

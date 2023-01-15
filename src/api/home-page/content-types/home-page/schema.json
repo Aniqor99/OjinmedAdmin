@@ -11,5 +11,13 @@
     "draftAndPublish": true
   },
   "pluginOptions": {},
-  "attributes": {}
+  "attributes": {
+    "Component": {
+      "type": "dynamiczone",
+      "components": [
+        "component.newcom",
+        "showcase.showcase"
+      ]
+    }
+  }
 }
