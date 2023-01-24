@@ -1,10 +1,10 @@
 {
   "kind": "singleType",
-  "collectionName": "abouts",
+  "collectionName": "collaborations",
   "info": {
-    "singularName": "about",
-    "pluralName": "abouts",
-    "displayName": "About"
+    "singularName": "collaboration",
+    "pluralName": "collaborations",
+    "displayName": "Collaboration"
   },
   "options": {
     "draftAndPublish": true
@@ -14,7 +14,7 @@
     "name": {
       "type": "string"
     },
-    "content": {
+    "description": {
       "type": "richtext"
     }
   }

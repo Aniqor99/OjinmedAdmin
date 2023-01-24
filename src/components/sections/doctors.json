@@ -5,11 +5,5 @@
     "icon": "address-book"
   },
   "options": {},
-  "attributes": {
-    "emch": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::emch.emch"
-    }
-  }
+  "attributes": {}
 }
