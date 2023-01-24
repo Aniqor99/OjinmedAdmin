@@ -4,7 +4,8 @@
   "info": {
     "singularName": "collaboration",
     "pluralName": "collaborations",
-    "displayName": "Collaboration"
+    "displayName": "Collaboration",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -16,6 +17,11 @@
     },
     "description": {
       "type": "richtext"
+    },
+    "doctors": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::doctor.doctor"
     }
   }
 }
