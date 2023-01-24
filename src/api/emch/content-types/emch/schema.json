@@ -31,12 +31,15 @@
       "type": "richtext",
       "required": true
     },
-    "profile": {
+    "image": {
       "type": "media",
       "multiple": false,
       "required": true,
       "allowedTypes": [
-        "images"
+        "images",
+        "videos",
+        "audios",
+        "files"
       ]
     }
   }

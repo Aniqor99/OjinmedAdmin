@@ -15,7 +15,8 @@
     "Components": {
       "type": "dynamiczone",
       "components": [
-        "component.newcom"
+        "component.newcom",
+        "component.slider"
       ]
     },
     "text": {
