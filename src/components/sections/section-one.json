@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_sections_section_ones",
+  "info": {
+    "displayName": "SectionOne"
+  },
+  "options": {},
+  "attributes": {
+    "FirstName": {
+      "type": "string"
+    },
+    "FirstUrl": {
+      "type": "string"
+    },
+    "SecondName": {
+      "type": "string"
+    },
+    "SecondUrl": {
+      "type": "string"
+    },
+    "ThirdName": {
+      "type": "string"
+    },
+    "ThirdUrl": {
+      "type": "string"
+    },
+    "FourthName": {
+      "type": "string"
+    },
+    "FourthUrl": {
+      "type": "string"
+    }
+  }
+}

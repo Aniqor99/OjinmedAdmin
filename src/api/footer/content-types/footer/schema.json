@@ -4,14 +4,44 @@
   "info": {
     "singularName": "footer",
     "pluralName": "footers",
-    "displayName": "Footer"
+    "displayName": "Footer",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "text": {
+    "SectionOne": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.section-one"
+    },
+    "SectionTwo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.section-one"
+    },
+    "SectionThree": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.section-one"
+    },
+    "SocialMedia": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.section-one"
+    },
+    "SectionOneName": {
+      "type": "string"
+    },
+    "SectionTwoName": {
+      "type": "string"
+    },
+    "SectionThreeName": {
+      "type": "string"
+    },
+    "SectionFourName": {
       "type": "string"
     }
   }
