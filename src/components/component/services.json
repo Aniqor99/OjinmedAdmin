@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_component_services",
+  "info": {
+    "displayName": "Services",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "Enable": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_component_statistics",
+  "info": {
+    "displayName": "Statistic",
+    "icon": "chart-pie",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "TextOne": {
+      "type": "string"
+    },
+    "NumOne": {
+      "type": "biginteger"
+    },
+    "TextTwo": {
+      "type": "string"
+    },
+    "NumTwo": {
+      "type": "biginteger"
+    },
+    "TextThree": {
+      "type": "string"
+    },
+    "NumThree": {
+      "type": "biginteger"
+    },
+    "TextFour": {
+      "type": "string"
+    },
+    "NumFour": {
+      "type": "biginteger"
+    }
+  }
+}

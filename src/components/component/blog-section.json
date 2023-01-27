@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_component_blog_sections",
+  "info": {
+    "displayName": "BlogSection",
+    "icon": "comment-alt"
+  },
+  "options": {},
+  "attributes": {
+    "Enable": {
+      "type": "boolean"
+    }
+  }
+}

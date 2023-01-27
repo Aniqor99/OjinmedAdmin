@@ -14,6 +14,15 @@
   "attributes": {
     "title": {
       "type": "string"
+    },
+    "Statistic": {
+      "type": "dynamiczone",
+      "components": [
+        "component.statistic",
+        "component.blog-section",
+        "component.services",
+        "component.showcase"
+      ]
     }
   }
 }
