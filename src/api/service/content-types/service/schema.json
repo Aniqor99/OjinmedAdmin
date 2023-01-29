@@ -14,8 +14,7 @@
   "attributes": {
     "name": {
       "type": "string",
-      "required": true,
-      "maxLength": 20
+      "required": true
     },
     "description": {
       "type": "richtext",
@@ -33,6 +32,11 @@
       "type": "uid",
       "required": true,
       "default": "services"
+    },
+    "services": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::service.service"
     }
   }
 }
