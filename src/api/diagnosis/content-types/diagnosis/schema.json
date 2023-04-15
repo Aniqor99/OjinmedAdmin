@@ -4,7 +4,8 @@
   "info": {
     "singularName": "diagnosis",
     "pluralName": "diagnoses",
-    "displayName": "Diagnosis"
+    "displayName": "Diagnosis",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -18,17 +19,20 @@
       "type": "richtext"
     },
     "image": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
       "type": "media",
-      "multiple": false
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
     },
     "slug": {
       "type": "uid"
+    },
+    "diagnoses": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::diagnosis.diagnosis"
     }
   }
 }
